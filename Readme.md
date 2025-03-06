@@ -1,4 +1,5 @@
 Content Extractor:-
+
 Content Extractor is a Python-based tool that enables users to easily extract text from various file formats, including PDFs, DOCX (Word documents), and images. The application uses popular Python libraries such as `PyPDF2`, `python-docx`, and `Tesseract OCR` to retrieve text content from files and save it as a `.txt` file.
 
 Features:-
@@ -56,3 +57,8 @@ Contributing:- Feel free to fork the repository and create pull requests for any
 Contact:- For any queries or suggestions, feel free to reach out to me at vishwakarma.sujeet1626@gmail.com.
 
 GitHub Repository:- [Content Extractor - GitHub](https://github.com/sujeetkumar2003/Content_Extractor.git)
+
+Author:
+
+Name: Sujeet Kumar 
+Email: vishwakarma.sujeet1626@gmail.com
